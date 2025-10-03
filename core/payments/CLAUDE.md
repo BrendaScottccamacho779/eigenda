@@ -17,3 +17,5 @@ There are two possible ways to pay for a blob dispersal:
 - Old payment logic exists in the following places:
     - `api/clients/v2/accountant.go`
     - `core/meterer/`
+
+<!-- Auto-update: 2025-10-03T13:42:27.411387 -->
